@@ -40,7 +40,7 @@ const Login = () => {
                             <div>
                                 <input type="password" placeholder="password" name="password" class="password" required/>
                             </div>
-                            <input type="submit" value="Log in" class="login-btn mt-3" />
+                            <input href="https://www.instagram.com/" type="submit" value="Log in" class="login-btn mt-3" />
                         </div>
                         <div className="flex items-center gap-1">
                             <hr className="border-t w-[100px] border-black" />
@@ -49,7 +49,7 @@ const Login = () => {
                         </div>
                         <div class="main-bottom flex items-center flex-col">
                             <a href="https://www.facebook.com/" class="logInFB flex items-center gap-2 text-blue-800"><img src={fb} alt="facebook" width={16} height={16} /> Log in with Facebook </a><br />
-                            <a href="#" class="forget"> Forgot password? </a>
+                            <a href="https://www.instagram.com/accounts/password/reset/" class="forget"> Forgot password? </a>
                         </div>
                     </form>
                     <div class="bottom border mt-3">
