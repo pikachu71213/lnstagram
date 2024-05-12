@@ -68,10 +68,10 @@ const Login = () => {
             </div>
             <footer>
                 <div className="flex flex-wrap items-center justify-center">
-                    <a href="#">Meta</a>
-                    <a href="#">About</a>
-                    <a href="#">Blog</a>
-                    <a href="#">Jobs</a>
+                    <a href="https://about.meta.com/">Meta</a>
+                    <a href="https://about.instagram.com/">About</a>
+                    <a href="https://about.instagram.com/blog">Blog</a>
+                    <a href="https://about.instagram.com/about-us/careers">Jobs</a>
                     <a href="#">Help</a>
                     <a href="#">API</a>
                     <a href="#">Privacy</a>
