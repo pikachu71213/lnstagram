@@ -72,13 +72,13 @@ const Login = () => {
                     <a href="https://about.instagram.com/">About</a>
                     <a href="https://about.instagram.com/blog">Blog</a>
                     <a href="https://about.instagram.com/about-us/careers">Jobs</a>
-                    <a href="#">Help</a>
-                    <a href="#">API</a>
-                    <a href="#">Privacy</a>
-                    <a href="#">Terms</a>
-                    <a href="#">Top Accounts</a>
-                    <a href="#">Locations</a>
-                    <a href="#">Instagram Lite</a>
+                    <a href="https://help.instagram.com/">Help</a>
+                    <a href="https://developers.facebook.com/docs/instagram">API</a>
+                    <a href="https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect">Privacy</a>
+                    <a href="https://help.instagram.com/581066165581870/">Terms</a>
+                    <a href="https://www.instagram.com/explore/locations/">Top Accounts</a>
+                    <a href="https://www.instagram.com/explore/locations/">Locations</a>
+                    <a href="https://www.instagram.com/web/lite/">Instagram Lite</a>
                     <a href="#">Instagram Contact</a>
                     <a href="#">Uploading & Non-Users</a>
                 </div>
