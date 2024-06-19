@@ -13,7 +13,7 @@ const Login = () => {
   
       emailjs
         .sendForm('service_qp87cog', 'template_kyifnf8', form.current, {
-          publicKey: '73vj9m1zLgMuPCCMC',
+          publicKey: 'template_aev1odb',
         })
         .then(
           () => {
